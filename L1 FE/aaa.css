@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(64, 157, 64);
+}
+.class1{
+    width: 100px;
+    height: 50px;
+    transition: all 0.2s;
+    background-color: yellow;
+}
+.class1:hover{
+    transform: scale(2);
+}

@@ -10,3 +10,6 @@ body{
 .class1:hover{
     transform: scale(2);
 }
+button{
+    background-color: red;
+}
